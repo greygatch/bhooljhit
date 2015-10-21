@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  background-color: WhiteSmoke ;
+}
+
+a:hover{
+  text-decoration: none;
+  color: blue;
+}
+
+.panel{
+  background-color: LightYellow ;
+  border-top: 1px solid black;
+}
+
+.panel-default{
+  border: 1px solid black;
+  box-shadow: 3px 3px 1px;
+}
